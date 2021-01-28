@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I love to play soccer, volleyball, and I love sleep!
+=======
+I love to play soccer, volleyball
+>>>>>>> 2799c75ba9ab4e85dfe90e8f39b719d38ba1a21a
